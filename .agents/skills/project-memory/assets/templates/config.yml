@@ -1,0 +1,33 @@
+# Project Memory space configuration
+# Located in .agent/memory/config.yml
+
+version: "1.0.0"
+project_name: "CortexOS"
+
+# Auto-write behavior config
+auto_write:
+  enabled: true
+  allow_external_skills: true
+  
+  # Category-specific auto-write rules
+  categories:
+    overview.md: true
+    architecture.md: true
+    conventions.md: true
+    decisions.md: true
+    features.md: true
+    issues.md: true
+    history.md: true
+
+  # Skill-specific overrides
+  skills:
+    code-editor: true
+    refactor-tool: true
+    tester: true
+
+# Formatting and rules
+rules:
+  never_invent_facts: true
+  prefer_codebase_evidence: true
+  preserve_history: true
+  archive_before_delete: true

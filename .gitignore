@@ -1,0 +1,13 @@
+# System & OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# IDE Files
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Agent Scratch Directory
+/tmp/
