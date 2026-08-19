@@ -27,6 +27,28 @@ git clone --depth=1 https://github.com/alimohamedcv2025-code/-CortexOS.git temp-
 
 ---
 
+## 💻 Supported AI Environments & Compatibility
+
+**CortexOS** is universal, language-agnostic, and fully compatible with all modern AI coding assistants and agentic environments:
+
+| AI Assistant / IDE | Integration Mode | Slash Commands | Memory Auto-Write |
+|---|---|:---:|:---:|
+| **Antigravity / Gemini Agent** | Native Skill & Workflow System | ✅ Yes | ✅ Full Support |
+| **Cursor IDE** | Custom Rules & Agent Workflows | ✅ Yes | ✅ Full Support |
+| **Windsurf / Cascade** | Custom System Rules & Workflows | ✅ Yes | ✅ Full Support |
+| **Cline / Roo Code / Claude Dev** | System Prompts & Tool Integration | ✅ Yes | ✅ Full Support |
+| **GitHub Copilot Agent Mode** | Slash Commands (`/init`, `/feature`, etc.) | ✅ Yes | ✅ Full Support |
+| **Aider & CLI Agents** | Terminal Prompt Workflows | ✅ Yes | ✅ Full Support |
+
+### 🌐 Supported Tech Stacks & Languages
+**CortexOS** automatically adapts to any programming language or framework:
+- **Web & Fullstack**: Node.js, Next.js, React, Vue, Angular, Svelte, Express, NestJS, Vanilla HTML/JS/CSS
+- **Backend & APIs**: Python (FastAPI, Django, Flask), Go, Rust, Java (Spring Boot), PHP (Laravel), C# (.NET)
+- **Mobile & Desktop**: React Native, Flutter, Electron, Swift, Kotlin
+- **Database & Cloud**: PostgreSQL, MongoDB, Redis, Supabase, Firebase, Docker, Kubernetes
+
+---
+
 ## Architecture Overview
 
 ```
