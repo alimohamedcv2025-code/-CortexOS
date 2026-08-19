@@ -1,5 +1,7 @@
 # 🤖 CortexOS
 
+![CortexOS Banner](../assets/cortexos_banner.png)
+
 A modular, evidence-based **AI Developer Brain & Agentic Coding Workflow System** designed for AI coding assistants. Built on top of a shared **Project Memory** foundation, **CortexOS** provides 30 standardized slash-command workflows organized across 6 core skill groups.
 
 ---
